@@ -1,0 +1,26 @@
+.complete{
+    background-color: #AAAAAA;
+    padding: 50px;
+    color:black;
+
+   
+}
+.item{
+    padding: 20px;
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+
+}
+.item p{
+    margin-left: 30px;
+}
+@media (max-width:800px) {
+    .item{
+        padding: 20px;
+        display: flex;
+        width:300px;
+        justify-content: space-between;
+    
+    }
+}

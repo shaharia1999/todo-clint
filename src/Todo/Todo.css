@@ -1,0 +1,36 @@
+.todo{
+    width: 800px;
+    background-color: #AAAAAA;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 30px;
+    color: black;
+    height: auto;
+    font-size: 20px;
+}
+ .form{
+    padding-left: 30px;
+    margin-bottom: 40px;
+ 
+}
+.form-div{
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.form-div a{
+    text-decoration: none;
+    color: black;
+}
+
+input{
+    margin: 0 auto;
+}
+@media (max-width:800px) {
+    .todo{
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 50px;
+        padding: 30px;
+    }
+}
