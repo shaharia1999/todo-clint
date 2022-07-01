@@ -1,5 +1,4 @@
-# Getting Started with Create React App
-
+# live site : https://todo2-app-ebec2.web.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
